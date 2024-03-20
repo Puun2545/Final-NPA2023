@@ -1,8 +1,8 @@
 # NPA2023 Final Example
 
-- Name/Surname:
-- Student ID:
-- GitHub repository URL:
+- Name/Surname: Puun Vachangngern
+- Student ID: 64070184
+- GitHub repository URL: https://github.com/Puun2545/Final-NPA2023
 
 ## Instruction
 
