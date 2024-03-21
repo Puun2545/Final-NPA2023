@@ -23,7 +23,7 @@ accessToken = "Bearer MWRkYWU5N2UtZjk4MS00ODZhLTg1N2YtMWRhY2MxZDg1ODI5YWIxOTFlMD
 # 3. Prepare GetParameters to get the latest message for messages API.
 
 # Defines a variable that will hold the webx roomId 
-roomIdToGetMessages = "Y2lzY29zcGFyazovL3VzL1JPT00vZjBkZjY0NDAtYWU5Yi0xMWVlLTg5MGMtMGQzNjUwOTJlMmUy"
+roomIdToGetMessages = "Y2lzY29zcGFyazovL3VzL1JPT00vZjBkZjY0NDAtYWU5Yi0xMWVlLTg5MGMtMGQzNjUwOTJlMmUy" # ID ห้องที่จะให้รับข้อความ
 
 while True:
     # always add 1 second of delay to the loop to not go over a rate limit of API calls
