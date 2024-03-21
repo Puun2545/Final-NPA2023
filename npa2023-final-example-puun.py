@@ -67,7 +67,7 @@ while True:
     
     # check if the text of the message starts with the magic character "/" and yourname followed by a location name
     # e.g.  "/chotipat San Jose"
-    
+    # /puun LA
     space = message.find(" ") #หาช่องว่าง ไอนี่กูเล่นเอง
     
     if message.find("/") == 0:
